@@ -1,4 +1,4 @@
-** This is just  an a fork from real code**
+**This is just  an a fork from real code**
 
 credits to:
 1. https://github.com/jensonhirst
